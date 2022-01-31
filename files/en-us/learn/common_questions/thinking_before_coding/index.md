@@ -24,7 +24,7 @@ This article covers the all-important first step of every project: define what y
 
 ## Summary
 
-When starting with a web project, many people focus on the technical side. Of course you must be familiar with the technique of your craft, but what really matters is _what you want to accomplish_. Yes, it seems obvious, but too many projects fail not from a lack of technical know-how, but from lack of goals and vision.
+When starting with a web project, many people focus on the technical side. Of course you must be familiar with the technique of your craft, but what really matters is _what you want to accomplish_. Yes, it seems obvious, but too many projects fail not from a lack of technical know-how, but from a lack of goals and vision.
 
 So when you get an idea and want to turn it into a website, there are a few questions you should answer before anything else:
 
